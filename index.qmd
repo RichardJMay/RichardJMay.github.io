@@ -1,7 +1,32 @@
 ---
-title: "RichardJMay.github.io"
+title: "Richard J May PhD"
+image: media/rich.jpeg
+toc: false
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: rectangle
+  
+  links:
+    - text: USW
+      href: https://pure.southwales.ac.uk/en/persons/richard-may
+    - text: GitHub
+      href: https://github.com/RichardJMay
+    - text: Email
+      href: mailto:richard.may@southwales.ac.uk
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=FPSlzrAAAAAJ&hl=en
+      
+      
 ---
 
-This is a Quarto website.
+## Associate Professor of Behavioural Science
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm an Associate Professor of Behavioural Science in the Faculty of Life Sciences and Education at the University of South Wales. My research explores how behavioural interventions can be applied across diverse contexts and populations. From learning disabilities and language development to gambling and meta-science, my work aims to uncover what makes behavioural approaches effective in real world contexts —and ultimately, how they can create meaningful and lasting impact.
+
+In addition to research, I teach on the Psychology, Clinical Psychology, and Behaviour Analysis programmes at both undergraduate and postgraduate levels.
+
+I currently serve on the Editorial Boards of Perspectives on Behavior Science and the Journal of the Experimental Analysis of Behaviour. I am also a member of the Sharland Foundation Developmental Disabilities Applied Behavioral Research Impact Network, where I serve as Co-Chair of the Teaching Skills sub-group.
+
+
+

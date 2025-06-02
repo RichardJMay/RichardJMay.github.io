@@ -5,7 +5,7 @@ project:
 # ~ additional metadata excluded for brevity ~
 
 website:
-  title: "RichardJMay.github.io"
+  title: "Richard J May"
   navbar:
     left:
       - href: index.qmd

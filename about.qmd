@@ -1,5 +1,50 @@
 ---
-title: "About"
+title: "Research"
 ---
 
-About this site
+## Current Projects
+
+### Early Positive Approaches to Support (E-PAtS)
+
+-   **Funder**: NIHR\
+-   **Collaborators**: Cardiff University, University of Kent, University of Birmingham, University College London, University of Warwick, Ulster University, Oxford University
+
+We are leading a nationwide Cluster Randomised Controlled Trial to evaluate the effectiveness of the Early Positive Approaches to Support (E-PAtS) programme—a parent/carer support intervention for families of young children with intellectual disabilities.\
+[Learn more at epats-study.com](https://www.epats-study.com)
+
+### Positive Behaviour Support: A Nationwide Practice Survey
+
+-   **Funder**: Sharland Foundation\
+-   **Collaborators**: University of Birmingham, Bangor University, Jigsaw School, Ulster University, University of Kent
+
+This study aims to map the current landscape of Positive Behaviour Support (PBS) in the UK by gathering insights from professionals working across roles and sectors. The findings will inform the development of training and service models in the field.
+
+### Advancing Communication Interventions for Individuals with Learning Disabilities
+
+-   **Funder**: Sharland Foundation\
+-   **Collaborators**: University of Birmingham, University of Warwick, Ulster University, Bangor University, Pyramid Educational Consultants
+
+In collaboration with Pyramid Educational Consultants, I’m co-leading three linked projects focused on improving communication support for individuals with learning disabilities:
+
+-   **PECS Fidelity Tool**\
+    We are developing and validating a fidelity assessment tool for the Picture Exchange Communication System (PECS), with the aim of standardising high-quality implementation in both clinical and research contexts.\
+    [See our background study](https://pubmed.ncbi.nlm.nih.gov/38341815/)
+
+-   **Pyramid Classroom Model Feasibility Study**\
+    This project explores the acceptability and feasibility of a class-wide communication-focused intervention designed for students with learning disabilities. The results will inform the design of a future randomised controlled trial.
+
+-   **PECS for Adults**\
+    We are investigating the feasibility and acceptability of using PECS with adults with learning disabilities—an area that remains under-researched but holds promise for improving communication outcomes in adult services.
+
+### Harmful Gambling: Behavioural Interventions and Evidence Gaps
+
+-   **Funder**: GambleAware\
+-   **Collaborators**: Swansea University, University of Lethbridge, Swansea University Medical School, Reykjavík University
+
+We are investigating the use of **Contingency Management (CM)**—a behavioural intervention commonly used in substance use treatment—as a novel adjunct approach for harmful gambling. Our recent study tested a remotely delivered CM programme, where participants received voucher-based incentives for abstinence, treatment attendance, and goal achievement. The findings show that CM is both feasible and acceptable in this context.\
+[Read the study](https://www.sciencedirect.com/science/article/pii/S2773021224000233)
+
+Alongside this, we conducted a **scoping review** of gambling intervention research in the UK. The review identified relatively few studies, highlighting significant evidence gaps and the need for more UK-based evaluations of gambling treatment approaches.\
+[Read the review](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-05843-8)
+
+## 
