@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
   
-# ~ additional metadata excluded for brevity ~
 
 website:
   title: "Richard J May"
@@ -11,12 +10,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+  page-footer:
+    background: light
+    left: Copyright 2025, Richard May
+    right: Built with Quarto
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

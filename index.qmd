@@ -10,14 +10,19 @@ about:
   links:
     - text: USW
       href: https://pure.southwales.ac.uk/en/persons/richard-may
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/RichardJMay
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:richard.may@southwales.ac.uk
-    - text: Google Scholar
+    - icon: google-scholar
+      text: Google Scholar
       href: https://scholar.google.com/citations?user=FPSlzrAAAAAJ&hl=en
-      
-      
+    - icon: osf
+      text: OSF
+      href: https://osf.io/skmt4/
+ 
 ---
 
 ## Associate Professor of Behavioural Science
