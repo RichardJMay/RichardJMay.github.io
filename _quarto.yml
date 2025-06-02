@@ -10,6 +10,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: publications.qmd
+        text: Publications
   page-footer:
     background: light
     left: Copyright 2025, Richard May
