@@ -12,6 +12,9 @@ website:
       - about.qmd
       - href: publications.qmd
         text: Publications
+      - href: videos.qmd
+        text: Talks
+
   page-footer:
     background: light
     left: Copyright 2025, Richard May

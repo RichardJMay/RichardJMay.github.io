@@ -22,7 +22,6 @@ about:
     - icon: osf
       text: OSF
       href: https://osf.io/skmt4/
- 
 ---
 
 I'm an Associate Professor of Behavioural Science in the Faculty of Life Sciences and Education at the University of South Wales. My research explores how behavioural interventions can be applied across diverse contexts and populations. From learning disabilities and language development to gambling and meta-science, my work aims to uncover what makes behavioural approaches effective in real world contexts —and ultimately, how they can create meaningful and lasting impact.
@@ -30,6 +29,3 @@ I'm an Associate Professor of Behavioural Science in the Faculty of Life Science
 In addition to research, I teach on the Psychology, Clinical Psychology, and Behaviour Analysis programmes at both undergraduate and postgraduate levels.
 
 I currently serve on the Editorial Boards of Perspectives on Behavior Science and the Journal of the Experimental Analysis of Behaviour. I am also a member of the Sharland Foundation Developmental Disabilities Applied Behavioral Research Impact Network, where I serve as Co-Chair of the Teaching Skills sub-group.
-
-
-
