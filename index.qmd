@@ -24,8 +24,8 @@ about:
       href: https://osf.io/skmt4/
 ---
 
-I'm an Associate Professor of Behavioural Science in the Faculty of Life Sciences and Education at the University of South Wales. My research explores how behavioural interventions can be applied across diverse contexts and populations. From learning disabilities and language development to gambling and meta-science, my work aims to uncover what makes behavioural approaches effective in real world contexts —and ultimately, how they can create meaningful and lasting impact.
+I am an Associate Professor of Behaviour Analysis at the University of South Wales. My work focuses on behavioural interventions and how they operate in real-world contexts, spanning areas such as learning disabilities, language development, gambling, and meta-science, with an emphasis on transparent and reproducible research practices.
 
-In addition to research, I teach on the Psychology, Clinical Psychology, and Behaviour Analysis programmes at both undergraduate and postgraduate levels.
+I teach across undergraduate and postgraduate programmes in Psychology, Clinical Psychology, and Behaviour Analysis.
 
-I currently serve on the Editorial Boards of Perspectives on Behavior Science and the Journal of the Experimental Analysis of Behaviour. I am also a member of the Sharland Foundation Developmental Disabilities Applied Behavioral Research Impact Network, where I serve as Co-Chair of the Teaching Skills sub-group.
+I am an Editorial Board member for *Perspectives on Behavior Science* and the *Journal of the Experimental Analysis of Behaviour*, and Co-Chair of the Teaching Skills sub-group within the Sharland Foundation Developmental Disabilities Applied Behavioral Research Impact Network.
