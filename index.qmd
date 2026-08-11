@@ -24,8 +24,8 @@ about:
       href: https://osf.io/skmt4/
 ---
 
-I am an Associate Professor of Behaviour Analysis at the University of South Wales. My work focuses on behavioural interventions and how they operate in real-world contexts, spanning areas such as learning disabilities, language development, gambling, and meta-science, with an emphasis on transparent and reproducible research practices.
+I am an Associate Professor of Behaviour Analysis at the University of South Wales (USW). My research work focuses on behavioural interventions and how they operate in real-world contexts, spanning areas such as learning disabilities, language development, gambling, and meta-science, with an emphasis on transparent and reproducible research practices.
 
-I teach across undergraduate and postgraduate programmes in Psychology, Clinical Psychology, and Behaviour Analysis.
+I teach across undergraduate and postgraduate programmes in Psychology, Clinical Psychology, and Behaviour Analysis at USW, and I also teach a Behavioural Interventions course Reykjavik University. I have a strong interest in how we can design learning environments that genuinely support students. I try to practice what I preach by applying behavioural principles to my own teaching materials. For example, I recently developed an open-access, web-based [programmed instruction course](https://richardjmay.github.io/behavioural-interventions/) to accompany my Behavioural Interventions class. The course uses active responding, immediate feedback, and structured sequencing to help students build fluency with the course material.
 
-I am an Editorial Board member for *Perspectives on Behavior Science* and the *Journal of the Experimental Analysis of Behaviour*, and Co-Chair of the Teaching Skills sub-group within the Sharland Foundation Developmental Disabilities Applied Behavioral Research Impact Network.
+I also currently serve as an Editorial Board member for *Perspectives on Behavior Science* and the *Journal of the Experimental Analysis of Behaviour*, and I am the Co-Chair of the Teaching Skills sub-group within the [Sharland Foundation Developmental Disabilities Applied Behavioral Research Impact Network.](https://warwick.ac.uk/fac/soc/cidd/sharlandfoundation/)

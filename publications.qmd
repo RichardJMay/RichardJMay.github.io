@@ -4,25 +4,25 @@ format: html
 page-layout: full
 ---
 
-### Preprints
+### 2026
 
--   **May, R., Campbell, O., Apanasionok, M., Molina, J., Seel, C., Totsika, V., … Dymond, S.** (2025, December 8). Evaluating the Quality of Systematic Reviews and Meta-analyses Published in Behaviour Analysis Journals: An Umbrella Review. [https://doi.org/10.31234/osf.io/cykmt_v1](https://osf.io/preprints/psyarxiv/cykmt_v1)
+-   **May, R. J., Campbell, O., Apanasionok, M., Molina, J., Seel, C., Totsika, V., … Dymond, S.** (2026). Evaluating the Quality of Systematic Reviews and Meta-analyses Published in Behaviour Analysis Journals: An Umbrella Review. <https://doi.org/10.1371/journal.pone.0350142>
+
+-   **Tennyson, A., May, R. & Mc Tiernan, A.** (2026). Establishing Core Outcome Sets to Advance Evidence Synthesis in Behavior Analysis. *Perspectives on Behavior Science* <https://link.springer.com/article/10.1007/s40614-026-00507-2>
 
 ### 2025
 
 -   **Hulson-Jones, A., Blandford-Elliot, M., William, M., Hoerger, M., May, R., Groves, E., Grigorie, A., Watkins, R., Noone, S., & Hughes, C**. (2025). *Behaviours that Challenge and Disrupt in Schools Across Wales: Effective Strategies and Mitigations*. Welsh Government. <https://www.gov.wales/behaviours-challenge-and-disrupt-schools-across-wales-2025>
 
-### 2024
-
 -   **May, R., Salman, H., O'Neill, S. J., Denne, L., Grindle, C., Cross, R., Roberts-Tyler, E., Meek, I. & Games, C.,** (2025). *Exploring the Use of the Picture Exchange Communication System (PECS) in Special Education Schools in the United Kingdom*. *Journal of Autism and Developmental Disorders*. <https://doi.org/10.1007/s10803-023-06194-1>
+
+### 2024
 
 -   **Seel, C., Champion, H., Christensen, D., Dorey, L., May, R. J., Hoon, A., & Dymond, S.** (2024). *Contingency Management for the Treatment of Harmful Gambling: A Case Report*. *Psychiatry Research Case Reports*, 3(1), Article 100227. <https://doi.org/10.1016/j.psycr.2024.100227>
 
 -   **Seel, C., Christensen, D. R., Jones, M., Hoon, A., May, R. J., & Dymond, S.** (2024). *Treatment of Harmful Gambling: A Scoping Review of United Kingdom-Based Intervention Research*. *BMC Psychiatry*, 24(1), Article 58. <https://doi.org/10.1186/s12888-024-05843-8>
 
 -   **Paris, A., Denne, L., Grindle, C., May, R. J., Apanasionok, M., & Hastings, R. P.** (2024). *Facilitators and Barriers to the Implementation of the Picture Exchange Communication System (PECS): A Systematic Review*. *Frontiers in Education*, 9, Article 1206410. <https://doi.org/10.3389/feduc.2024.1206410>
-
--   
 
 ### 2023
 
